@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/code-programmer-learn-to-WSBeyxvC1jH496xQGA" width="100"/>
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
 
 - 👋 Hi, I’m Deepak Jain aka DJ or DeeJai
