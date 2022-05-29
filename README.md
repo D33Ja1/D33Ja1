@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="200"/>
 </div>
 
 - 👋 Hi, I’m Deepak Jain aka DJ or DeeJai
-- 👀 I’m interested in 
-- 🌱 I’m currently exploring various domains and branches a software engineer 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently exploring various domains and branches a software engineers work on.
+
 - 📫 How to reach me ...
 
 <!---
