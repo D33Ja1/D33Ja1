@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m Deepak Jain aka DJ or DeeJai
-- 🌱 I’m currently exploring various domains and branches a software engineers work on.
+- 🌱 I’m currently exploring various domains and branches  software engineers can work on.
 
 - 📫 How to reach me ...
 
